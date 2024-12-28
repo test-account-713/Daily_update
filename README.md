@@ -1,17 +1,15 @@
-# Todo List | Date : 2024-12-03 
+# Todo List | Date : 2024-12-28 
 
-Keys : 25 | Clicks : 17 | Time (in Minutes) : 0.74## Tasks Overview
+Keys : 0 | Clicks : 4 | Time (in Minutes) : 0.79## Tasks Overview
 
 ### Pending
 No tasks in this status.
 
 ### Working
-| Title | Category | Priority | Created | Completed |
-|-------|----------|----------|----------|------------|
-| testing | Personal | High | 2024-12-03 | - |
+No tasks in this status.
 
 ### Done
 | Title | Category | Priority | Created | Completed |
 |-------|----------|----------|----------|------------|
-| hello | Personal | Low | 2024-12-03 | 2024-12-03 |
+| hello2 | Personal | Low | 2024-12-28 | 2024-12-28 |
 
